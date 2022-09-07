@@ -1,0 +1,11 @@
+.image-section{
+    margin:0;
+    background-color:beige;
+}
+.image-section img{
+    border-style:groove;
+    padding:2rem;
+    border-radius:2%;
+    width:20rem;
+    background-color: goldenrod;
+}
